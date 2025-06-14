@@ -43,3 +43,4 @@ form.addEventListener('submit', function (e) {
 
 // Initial load
 fetchUsers();
+
